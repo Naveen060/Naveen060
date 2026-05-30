@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Naveen060
-- 👀 I’m interested in copetative problem solving...
-- 🌱 I’m currently learning computer science engineering in vignans lara intitute of technology and sciences ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Naveen
 
-<!---
-Naveen060/Naveen060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am interested in competitive programming and software development.
+- I am currently studying computer science engineering.
+- I use this profile repository to present a cleaner GitHub profile introduction.
+
+## About This Repository
+
+This is the special GitHub profile repository for `Naveen060`. Its `README.md` is shown on the public GitHub profile page.
+
+## Changes Made In This Recovery Pass
+
+1. Replaced the broken text encoding from the previous README.
+2. Cleaned the wording so the profile text reads correctly on GitHub.
+3. Added a short explanation of why this repository exists.
+
+## Notes
+
+- This repository is expected to stay README-only.
+- If you want, I can further improve this profile README with badges, skills, project links, and contact details.
