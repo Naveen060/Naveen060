@@ -1,20 +1,44 @@
-# Hi, I'm Naveen
+# Naveen Venkata Naveen
 
-- I am interested in competitive programming and software development.
-- I am currently studying computer science engineering.
-- I use this profile repository to present a cleaner GitHub profile introduction.
+Computer Science Engineering student focused on Python development, machine learning, computer vision, and practical full-stack project building.
 
-## About This Repository
+## About Me
 
-This is the special GitHub profile repository for `Naveen060`. Its `README.md` is shown on the public GitHub profile page.
+- Interested in applied AI, backend development, and problem solving
+- Building projects with Python, Flask, FastAPI, Streamlit, OpenCV, and machine learning tools
+- Using GitHub as a place to ship working projects instead of just storing notes
 
-## Changes Made In This Recovery Pass
+## Tech Stack
 
-1. Replaced the broken text encoding from the previous README.
-2. Cleaned the wording so the profile text reads correctly on GitHub.
-3. Added a short explanation of why this repository exists.
+- Languages: Python, SQL, JavaScript basics
+- Backend: Flask, FastAPI
+- ML / CV: scikit-learn, TensorFlow, OpenCV, pandas, NumPy
+- Tools: Git, GitHub, Streamlit
 
-## Notes
+## Featured Projects
 
-- This repository is expected to stay README-only.
-- If you want, I can further improve this profile README with badges, skills, project links, and contact details.
+### Face Recognition Based Attendance System
+- Flask + OpenCV attendance tracker with local face model training
+- GitHub: https://github.com/Naveen060/face-recognition-based-attendance-system
+
+### Emotion Based Music Recommendation System
+- Streamlit app that detects facial emotion and recommends songs
+- GitHub: https://github.com/Naveen060/Emotion-based-music-recommendation-system
+
+### Task Tracker API
+- FastAPI + SQLite backend for task management
+- GitHub: https://github.com/Naveen060/NewRepo
+
+### Crop Disease Detection
+- Streamlit inference app with model loading and prediction flow
+- GitHub: https://github.com/Naveen060/-crop-disease-deteection
+
+## Current Focus
+
+- Improving project quality and documentation
+- Turning prototype repositories into production-style portfolio projects
+- Building cleaner APIs and more usable ML demos
+
+## Contact
+
+- GitHub: https://github.com/Naveen060
