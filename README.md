@@ -1,4 +1,4 @@
-# Naveen Venkata Naveen
+#  Venkata Naveen Chava
 
 Computer Science Engineering student focused on Python development, machine learning, computer vision, and practical full-stack project building.
 
