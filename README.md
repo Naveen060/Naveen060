@@ -6,6 +6,7 @@ Computer Science Engineering student focused on Python development, machine lear
 
 - Interested in applied AI, backend development, and problem solving
 - Building projects with Python, Flask, FastAPI, Streamlit, OpenCV, and machine learning tools
+- Connecting API, ML, and dashboard projects into stronger portfolio-ready apps
 - Using GitHub as a place to ship working projects instead of just storing notes
 
 ## Tech Stack
@@ -26,11 +27,11 @@ Computer Science Engineering student focused on Python development, machine lear
 - GitHub: https://github.com/Naveen060/Emotion-based-music-recommendation-system
 
 ### Task Tracker API
-- FastAPI + SQLite backend for task management
+- FastAPI + SQLite backend for task management with pagination and CORS support
 - GitHub: https://github.com/Naveen060/NewRepo
 
 ### Crop Disease Detection
-- Streamlit inference app with model loading and prediction flow
+- Streamlit inference app with model loading, prediction flow, and CLI inference support
 - GitHub: https://github.com/Naveen060/-crop-disease-deteection
 
 ## Current Focus
